@@ -1,0 +1,23 @@
+{
+    "description": "A Night Elf",
+    "name": "Elya Azuremoon",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/1%20-%20Dark%20Elf.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Elf"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

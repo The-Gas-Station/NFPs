@@ -1,0 +1,23 @@
+{
+    "description": "Leader Of The Apes",
+    "name": "Obie Dobo",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/3/2%20-%20Obie%20Dobo.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Raining Bananas In Space"
+        },
+        {
+            "trait_type": "Location",
+            "value": "ApeSwap"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "100% HORNEY"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

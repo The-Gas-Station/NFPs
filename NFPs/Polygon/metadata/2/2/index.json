@@ -1,0 +1,23 @@
+{
+    "description": "Mama Mia!",
+    "name": "Mario",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/2%20-%20Mario.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "World 1-1"
+        },
+        {
+            "trait_type": "Job",
+            "value": "Plumber"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Mushroom Kingdom"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

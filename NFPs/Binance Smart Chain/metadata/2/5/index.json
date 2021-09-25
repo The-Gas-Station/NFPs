@@ -1,0 +1,23 @@
+{
+    "description": "Flintstone Character",
+    "name": "Wilma",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/5%20-%20Wilma.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Bedrock"
+        },
+        {
+            "trait_type": "Personality",
+            "value": "Strong-Willed"
+        },
+        {
+            "trait_type": "Occupation",
+            "value": "Newspaper Reporter"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "description": "Black Metal Enthusiast",
+    "name": "Dead",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/2%20-%20Metalhead.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Horror"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Corpse Paint"
+        },
+        {
+            "trait_type": "Hobbies",
+            "value": "Burning Churches"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

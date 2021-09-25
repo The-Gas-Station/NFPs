@@ -1,0 +1,23 @@
+{
+    "description": "Came to Probe",
+    "name": "Xenu",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/1%20-%20Xenu.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Invasion"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "4 of em"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

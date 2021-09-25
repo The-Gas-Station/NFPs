@@ -1,0 +1,23 @@
+{
+    "description": "Gotta Catch Em All!",
+    "name": "Ash",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/6%20-%20Ash.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Kanto"
+        },
+        {
+            "trait_type": "Goal",
+            "value": "To Catch Em All"
+        },
+        {
+            "trait_type": "Hobbies",
+            "value": "Catching Pocket Monsters!"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "description": "Kid, my clothes are just an extension of my body. I’m always naked.",
+    "name": "Mystique",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/3%20-%20Mystique.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Comic"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Sapphire Blue"
+        },
+        {
+            "trait_type": "Special Ability",
+            "value": "Mutant Shapeshifter"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
