@@ -1,0 +1,19 @@
+{
+    "description": "A Fractalized Patron",
+    "name": "PolyMan",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/4%20-%20PolyMan.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "CRYSTLS"
+        },
+        {
+            "trait_type": "Job",
+            "value": "CRYSTL Yield Farmer"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

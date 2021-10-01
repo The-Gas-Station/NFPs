@@ -1,0 +1,23 @@
+{
+    "description": "The Crystal Lake Killer",
+    "name": "Jason Voorhees",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/6%20-%20Jason.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Subway Station"
+        },
+        {
+            "trait_type": "Famous Quote",
+            "value": "You’re going to Camp Blood, ain’t ya?"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Camp Crystal Lake"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

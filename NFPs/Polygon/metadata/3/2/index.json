@@ -1,0 +1,27 @@
+{
+    "description": "To Travel Forward In Time, All I Have To Do Is Wait",
+    "name": "10 Guy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/2%20-%20Brent.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "At The Homie's House"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Ripped"
+        },
+        {
+            "trait_type": "Goals",
+            "value": "Smoke More"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

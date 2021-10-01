@@ -1,0 +1,23 @@
+{
+    "description": "Cultural Icon",
+    "name": "Miss Riveter",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/1%20-%20Miss%20Riveter.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Patriotic"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Optimistic"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Land of the Free, Home of the Brave"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

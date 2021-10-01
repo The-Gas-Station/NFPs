@@ -1,0 +1,23 @@
+{
+    "description": "Loves Nuts!",
+    "name": "Nutty Nancy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/5%20-%20Squirrel%20Girl.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Squirrel Heaven"
+        },
+        {
+            "trait_type": "Intentions",
+            "value": "To Steal Nuts"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "In a Tree"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

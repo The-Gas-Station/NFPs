@@ -1,0 +1,23 @@
+{
+    "description": "At Your Service!",
+    "name": "Maid Boy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/4%20-%20Maid%20Boy.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dining Hall"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Subtle, Pale"
+        },
+        {
+            "trait_type": "Occupation",
+            "value": "Male French Maid"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

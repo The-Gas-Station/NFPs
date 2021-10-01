@@ -1,0 +1,23 @@
+{
+    "description": "Bingo! Bye-Bye!",
+    "name": "Princess Peach",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/3%20-%20Princess%20Peachpng.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "World 2-1"
+        },
+        {
+            "trait_type": "Job",
+            "value": "A Princess Ofcourse"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Locked In Bowsers Castle"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
