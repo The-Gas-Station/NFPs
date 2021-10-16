@@ -1,0 +1,27 @@
+{
+    "description": "Back off, man. I'm A Scientist!",
+    "name": "Buster",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/12%20-%20Ghostbuster.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Spook Central"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hazel"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Clean"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

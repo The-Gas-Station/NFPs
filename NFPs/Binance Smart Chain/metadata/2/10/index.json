@@ -1,0 +1,27 @@
+{
+    "description": "Chakras Aligned",
+    "name": "Shroomy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/10%20-%20Shroomy.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Trippy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dialated"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "LSD"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Outerspace"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

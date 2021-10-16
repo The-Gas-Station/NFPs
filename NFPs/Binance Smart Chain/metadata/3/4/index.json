@@ -1,0 +1,23 @@
+{
+    "description": "Funds are Safu",
+    "name": "CZ",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/3/4%20-%20CZ.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Raining BNB"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Binance"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

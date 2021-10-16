@@ -1,0 +1,27 @@
+{
+    "description": "A Charming Ladies' Man",
+    "name": "The Cisco Kid",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/9%20-%20Noir.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Noir"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "The Panama"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Smooth, Clean"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

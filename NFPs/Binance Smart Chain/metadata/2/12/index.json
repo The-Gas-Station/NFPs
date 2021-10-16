@@ -1,0 +1,23 @@
+{
+    "description": "Charm & Mystery",
+    "name": "Femme Fatale",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/12%20-%20Femme%20Fatale.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Noir"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cunning"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

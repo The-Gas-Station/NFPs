@@ -1,15 +1,15 @@
 {
     "description": "A Fractalized Patron",
-    "name": "PolyGuy",
-    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/4%20-%20PolyMan.png",
+    "name": "PolyGal",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/11%20-%20Polygal.png",
     "attributes": [
         {
             "trait_type": "Background",
             "value": "CRYSTLs"
         },
         {
-            "trait_type": "Hat",
-            "value": "CRYSTL Hair"
+            "trait_type": "Prop",
+            "value": "CRYSTL Headband"
         },
         {
             "trait_type": "Eyes",
