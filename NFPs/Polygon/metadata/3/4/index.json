@@ -1,23 +1,23 @@
 {
-    "description": "To Travel Forward In Time, All I Have To Do Is Wait",
-    "name": "10 Guy",
-    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/2%20-%20Brent.gif",
+    "description": "You can’t kill the boogie man!",
+    "name": "Michael Myers",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/4%20-%20Michael.gif",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "At The Homie's House"
+            "value": "Lightning Crash"
         },
         {
             "trait_type": "Eyes",
-            "value": "Stoned"
+            "value": "Non-Existant"
         },
         {
-            "trait_type": "Mood",
-            "value": "Ripped"
+            "trait_type": "Prop",
+            "value": "Kitchen Knife"
         },
         {
-            "trait_type": "Goals",
-            "value": "Smoke More"
+            "trait_type": "Residence",
+            "value": "Haddonfield, Illinois"
         },
         {
             "trait_type": "Rarity",
