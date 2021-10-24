@@ -1,0 +1,27 @@
+{
+    "description": "The Cake is a lie!",
+    "name": "Chell",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/11%20-%20Chell.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Aperture Laboratories"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "ASHPD"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Aperture Laboratories"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

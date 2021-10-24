@@ -1,0 +1,27 @@
+{
+    "description": "An Enormous Taste Bud",
+    "name": "Grimace",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/3/3%20-%20Grimace.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Fries"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ripped"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "McDonalds"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

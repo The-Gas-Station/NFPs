@@ -1,0 +1,27 @@
+{
+    "description": "You can’t kill the boogie man!",
+    "name": "Michael Myers",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/4%20-%20Michael.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lightning Crash"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Non-Existant"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Kitchen Knife"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Haddonfield, Illinois"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

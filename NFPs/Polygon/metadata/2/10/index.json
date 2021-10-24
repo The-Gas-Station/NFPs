@@ -1,0 +1,27 @@
+{
+    "description": "The Illegitimate Daughter",
+    "name": "Elphaba",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/10%20-%20Elphaba.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Oz"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Witch Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Witch"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

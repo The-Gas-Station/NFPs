@@ -1,0 +1,27 @@
+{
+    "description": "It's ME!",
+    "name": "The Puppet",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/7%20-%20The%20Puppet.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Purple Hairtie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Invert"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Painted"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "description": "I Always Come Back",
+    "name": "Purple Man",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/8%20-%20Purple%20Guy.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Invert"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

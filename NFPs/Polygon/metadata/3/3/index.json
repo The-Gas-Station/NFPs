@@ -1,0 +1,27 @@
+{
+    "description": "I'm a three timed divorced 53 y.o. Hypnotist. I mainly work birthday parties at Chilis. ",
+    "name": "Jimmy The Hypnotist",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/3%20-%20Jimmy.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hypnotizing"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Consuming"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "CRYSTL Hypnotizer"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "CRYSTL Mine"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

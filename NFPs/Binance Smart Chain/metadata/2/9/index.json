@@ -1,0 +1,27 @@
+{
+    "description": "I was cured, all right.",
+    "name": "Alex",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/9%20-%20Alex.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Clockwork Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Winged Liner"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Milk"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "England"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

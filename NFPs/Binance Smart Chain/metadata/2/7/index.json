@@ -1,0 +1,27 @@
+{
+    "description": "Holy...",
+    "name": "Robin",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/7-%20Robin.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Comic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Masked"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Superhero Costume"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Gotham City"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
