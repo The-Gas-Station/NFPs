@@ -1,0 +1,23 @@
+{
+    "description": "I'm in a glass case of emotion.",
+    "name": "Ron Burgandy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/6%20-%20Anchorman.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "KVWN Channel 4 News"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Suit"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "San Diego"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

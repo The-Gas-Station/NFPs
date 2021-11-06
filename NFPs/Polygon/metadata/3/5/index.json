@@ -1,0 +1,23 @@
+{
+    "description": "Bwah hah hah!",
+    "name": "Bowser",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/3/5%20-%20Bowser.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Bowsers Castle"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Mushroom Kingdom"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

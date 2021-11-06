@@ -1,0 +1,23 @@
+{
+    "description": "I'm the best!",
+    "name": "Waluigi",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/3/5%20-%20Waluigi.gif",
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "deceitful"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Blunt"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Mushroom Kingdom"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

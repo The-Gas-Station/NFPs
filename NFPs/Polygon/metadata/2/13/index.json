@@ -1,0 +1,23 @@
+{
+    "description": "Sorrow",
+    "name": "The Impressionist",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/13%20-%20impressionist.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pastel"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brushed"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shut"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

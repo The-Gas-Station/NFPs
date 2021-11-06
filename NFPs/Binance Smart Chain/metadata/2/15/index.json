@@ -1,0 +1,23 @@
+{
+    "description": "Abducted",
+    "name": "LSD LARRY",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/15%20-%20Tripp.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Abducted"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dialated"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

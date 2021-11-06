@@ -1,0 +1,23 @@
+{
+    "description": "Yippee!",
+    "name": "Daisy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/16%20-%20Daisy.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "World-1"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
