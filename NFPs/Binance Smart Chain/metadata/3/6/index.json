@@ -1,0 +1,27 @@
+{
+    "description": "Holy moly, Stromboli!",
+    "name": "Guy Fieri",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/3/6%20-%20Guy.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lightning Crash"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shaded"
+        },
+        {
+            "trait_type": "Prop",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Residence",
+            "value": "Flavortown"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

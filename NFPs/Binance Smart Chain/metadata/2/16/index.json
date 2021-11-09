@@ -1,0 +1,23 @@
+{
+    "description": "What? Stay home and take care of the house? Man, that's not exciting at all!",
+    "name": "Luigi",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/16%20-%20Luigi.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "World-1"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Plumber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

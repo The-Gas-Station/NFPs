@@ -1,0 +1,23 @@
+{
+    "description": "Painted Patron",
+    "name": "Scream",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/14%20-%20Scream.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Haunting"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brushed"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Open"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

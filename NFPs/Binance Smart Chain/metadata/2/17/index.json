@@ -1,0 +1,23 @@
+{
+    "description": "Stoned",
+    "name": "Sally Stalagmite",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Binance%20Smart%20Chain/metadata/2/17%20-%20rockGAS.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

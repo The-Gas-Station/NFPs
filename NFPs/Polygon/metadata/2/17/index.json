@@ -1,0 +1,23 @@
+{
+    "description": "Rock Hard",
+    "name": "Paleolithic Pete",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Polygon/metadata/2/17%20-%20rockGAS.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Invasion"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Farm"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
