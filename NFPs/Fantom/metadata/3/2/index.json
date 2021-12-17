@@ -1,0 +1,23 @@
+{
+    "description": "Well, sometimes I have to use my powers for the greater good.",
+    "name": "Danny",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/3/2%20-%20Danny%20Phantom.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ghost Zone"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing Green"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

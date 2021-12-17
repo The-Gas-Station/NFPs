@@ -1,0 +1,23 @@
+{
+    "description": "Demon Empress",
+    "name": "Okiku",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/1%20-%20Demon%20Empress.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hell"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

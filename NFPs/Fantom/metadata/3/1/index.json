@@ -1,0 +1,27 @@
+{
+    "description": "Love Me - That's All I Ask of You",
+    "name": "Phantom Of The Opera Network",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/3/1%20-%20Phantom.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Palais Garnier"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Masked"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

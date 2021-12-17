@@ -1,0 +1,23 @@
+{
+    "description": "I see everything",
+    "name": "OtherMother",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/5%20-%20OtherMother.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Midnight Garden"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Buttons"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
