@@ -1,0 +1,23 @@
+{
+    "description": "Oh, no tears, please. It’s a waste of good suffering.",
+    "name": "OtherFather",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/6%20-%20OtherFather.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portal"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Buttons"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

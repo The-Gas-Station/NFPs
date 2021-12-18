@@ -1,0 +1,23 @@
+{
+    "description": "Painted like a Picasso!",
+    "name": "Abstract Ally",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/3%20-%20PicassoGirl.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Painted"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Abstract"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

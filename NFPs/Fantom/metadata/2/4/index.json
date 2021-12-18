@@ -1,0 +1,23 @@
+{
+    "description": "Help! Im Stuck In This Painting!",
+    "name": "Notional Nate",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/4%20-%20PicassoGuy.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Painted"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Abstrack"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

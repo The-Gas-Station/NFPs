@@ -1,0 +1,23 @@
+{
+    "description": "The Gate Keeper",
+    "name": "Beelzebub",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/2%20-%20Demon%20Lord.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hell"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Devilish"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
