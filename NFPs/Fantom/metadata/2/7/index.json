@@ -1,0 +1,23 @@
+{
+    "description": "I'm a comedian. I'm not a clown.",
+    "name": "Clown Girl",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/7%20-%20Clowngirl.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Circus"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Clown Paint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

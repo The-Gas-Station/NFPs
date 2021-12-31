@@ -1,0 +1,23 @@
+{
+    "description": "Buy High, Sell Low",
+    "name": "Chad",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/9%20-%20Chad-Chan.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Messy Room"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

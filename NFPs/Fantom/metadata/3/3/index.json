@@ -1,0 +1,27 @@
+{
+    "description": "Time For You To Sleep!",
+    "name": "Phantom",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/3/3%20-%20Minecraft%20Phantom.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Night"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pixel"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

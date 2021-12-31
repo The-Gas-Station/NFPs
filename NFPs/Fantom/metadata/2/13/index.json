@@ -1,0 +1,23 @@
+{
+    "description": "Oh my! Senpai!",
+    "name": "Erina",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/13%20-%20Ahegao.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portal"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Sketch"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ahegao"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

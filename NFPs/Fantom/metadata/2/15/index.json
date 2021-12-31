@@ -1,0 +1,23 @@
+{
+    "description": "You may not understand...",
+    "name": "Complex Cindy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/15%20-%20abstract2.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Painted"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blotchy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple & Red"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

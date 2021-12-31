@@ -1,0 +1,23 @@
+{
+    "description": "Im more than a painting.",
+    "name": "Hypothetical Harry",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/14%20-%20Abstract1.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Painted"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blotchy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teal & Pink"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
