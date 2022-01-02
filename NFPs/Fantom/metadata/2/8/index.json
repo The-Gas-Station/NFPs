@@ -1,0 +1,23 @@
+{
+    "description": "I have a joke for you. Wanna hear it?",
+    "name": "Clown Guy",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/8%20-%20Clownguy.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Circus"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Clown Paint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

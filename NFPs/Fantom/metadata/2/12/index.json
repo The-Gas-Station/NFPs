@@ -1,0 +1,23 @@
+{
+    "description": "U Mad Bro?",
+    "name": "Troll",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/12%20-%20trollface.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Sketch"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Trolling"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

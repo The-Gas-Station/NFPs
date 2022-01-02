@@ -1,0 +1,27 @@
+{
+    "description": "Kiss Me, Fat Boy!",
+    "name": "Penny",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/3/4%20-%20Pennywise.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Derry"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Demon Clown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Killer"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Clown Paint"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

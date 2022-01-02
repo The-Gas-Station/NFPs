@@ -1,0 +1,23 @@
+{
+    "description": "...",
+    "name": "Mime Girl",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/10%20-%20Mimegirl.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "City Streets"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

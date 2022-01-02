@@ -1,0 +1,23 @@
+{
+    "description": "...",
+    "name": "Mime Man",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/11%20-%20mimeguy.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "City Streets"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pale"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
