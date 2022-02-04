@@ -1,0 +1,27 @@
+{
+    "description": "Who am I and why am I here?",
+    "name": "Mew",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/3/6%20-%20mewtwo.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Labratory"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Bipedal Humanoid"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

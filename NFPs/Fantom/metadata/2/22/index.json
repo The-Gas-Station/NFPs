@@ -1,0 +1,23 @@
+{
+    "description": "Im more popular than Posiden around these waters.",
+    "name": "Kalithresh",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/22.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Underwater"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fish Scales"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

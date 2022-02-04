@@ -1,0 +1,23 @@
+{
+    "description": "A Rare Patron",
+    "name": "Inspired Ian",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/19.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Paper"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Outlined"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green & Red"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

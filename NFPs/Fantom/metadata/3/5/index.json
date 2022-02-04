@@ -1,0 +1,27 @@
+{
+    "description": "I would like to die on Mars",
+    "name": "Ghostranaut",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/3/5%20-%20Hear%20You%20Scream.gif",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Space"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Dead"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sockets"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

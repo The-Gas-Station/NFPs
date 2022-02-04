@@ -1,0 +1,23 @@
+{
+    "description": "Im more than the outlines.",
+    "name": "Exotic Erin",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/18.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Paper"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Outlined"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple & Green"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

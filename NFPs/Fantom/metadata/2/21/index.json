@@ -1,0 +1,23 @@
+{
+    "description": "Naga Please!",
+    "name": "Athissa",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/21.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Underwater"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fish Scales"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

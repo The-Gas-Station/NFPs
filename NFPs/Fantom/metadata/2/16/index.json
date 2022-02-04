@@ -1,0 +1,23 @@
+{
+    "description": "Painted Rare Patron",
+    "name": "Aesthetic Andrea",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/16%20-%20painterly.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Painted"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brushed"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow & Green"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

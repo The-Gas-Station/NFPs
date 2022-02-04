@@ -1,0 +1,23 @@
+{
+    "description": "Poof!",
+    "name": "Radagast",
+    "image": "https://raw.githubusercontent.com/The-Gas-Station/NFPs/main/NFPs/Fantom/metadata/2/20.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Library"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
